@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ദേവി എസ്റ്റേറ്റ്</string>
+    <string name="e1_name">സ്കൂൾ</string>
+    <string name="e2_name">ചങ്ങല</string>
+    <string name="e3_name">പുലിമല</string>
+    <string name="off">ഓഫ്</string>
+    <string name="on">ഓൺ</string>
+    <string name="all">ഗേറ്റ്</string>
+    <string name="status">ഇപ്പോൾ നില</string>
+</resources>
